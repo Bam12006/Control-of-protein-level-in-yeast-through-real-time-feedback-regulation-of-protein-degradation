@@ -12,7 +12,7 @@ import org.micromanager.api.PositionList;
 
 /**
  *
- * @author Bahar
+ * @author Bahareh Mahrou
  */
 public class PIDControlOfCells {
     /**
